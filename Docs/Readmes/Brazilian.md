@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&vCenter=true&repeat=true&width=1000&lines=Traduções+Comunitárias+ao)](https://git.io/typing-svg)
 
-![Title](../img/logos/title.png)
+![Title](../img/logos/titlebr.png)
 
 [![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-fb0000.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
 [![Documentação](https://img.shields.io/badge/Documentação-Wiki-fb0000.svg)](../PT-BR/Documentação.md)
