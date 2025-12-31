@@ -13,7 +13,7 @@
 ![Title](../img/logos/titlebr.png)
 
 [![Diretrizes](https://img.shields.io/badge/Diretrizes-BR-fb0000.svg)](https://github.com/source-br/.github/blob/main/guidelines/diretrizes.md)
-[![Documentação](https://img.shields.io/badge/Documentação-Wiki-fb0000.svg)](../PT-BR/Documentação.md)
+[![Documentação](https://img.shields.io/badge/Documentação-Wiki-fb0000.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
 [![Baixar](https://img.shields.io/badge/Baixar%20tradução-BR-fb0000.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Deathmatch-Classic-Brazilian.zip)
 [![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Servidor%20do%20Discord&color=fb0000)](https://discord.gg/tVNv6SNZZT)
 
